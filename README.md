@@ -106,6 +106,7 @@ Deploy the contract at: https://remix.ethereum.org/#lang=en&optimize=false&runs=
 Connect your Metamask to Polygon PoS Chain Testnet Explorer using this website: https://mumbai.polygonscan.com/
 
 To accumulate funds for the transactions, create multiple accounts and add funds to the account using this website: https://faucet.polygon.technology/
+
 Do note that the website only allows one transaction per account receiving only 0.2 MATIC, so once accounts have received 0.2 MATIC each, transfer them to a single account to be able to use the first function, "transferSingleEth," which requires 1 ETH to transact.
 
 Once everything is set up, run the code from your visual code on the desktop and launch the application, which should be at http://localhost:3000/
