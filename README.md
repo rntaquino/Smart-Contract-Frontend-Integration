@@ -1,7 +1,7 @@
 # Smart-Contract-Frontend-Integration
 Integrating Smart Contract -  This repository will showcase 2 functions being deployed to a frontend application.
 ## Getting Started
-Copy the file below:
+The file below allows a smart contract to deposit a certain amount of ETH from the sender address to the receiver address in Metamask:
 
 ```Java
 // SPDX-License-Identifier: UNLICENSED
